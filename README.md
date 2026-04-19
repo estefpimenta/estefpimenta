@@ -1,4 +1,6 @@
-## Hi there 👋
+# 🤙 Estéfanno Pimenta
+
+## Front-end Developer
 
 <!--
 **estefpimenta/estefpimenta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
