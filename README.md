@@ -9,7 +9,7 @@ Atualmente, aprofundo meus conhecimentos em React e no desenvolvimento de aplica
         <img 
             alt="LinkedIn" 
             title="LinkedIn" 
-            src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"
+            src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
     <a href="https://estefpimenta.github.io/project__portfolio/" target="_blank">
