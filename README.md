@@ -9,14 +9,14 @@ Atualmente, aprofundo meus conhecimentos em React e no desenvolvimento de aplica
         <img 
             alt="LinkedIn" 
             title="LinkedIn" 
-            src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+            src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"
         />
     </a>
     <a href="https://estefpimenta.github.io/project__portfolio/" target="_blank">
         <img 
             alt="Portfolio" 
             title="Portfolio" 
-            src="https://img.shields.io/badge/Portfolio-FFB400?style=for-the-badge&logo=vercel&logoColor=white"
+            src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=google-chrome&logoColor=white"
         />
     </a>
 </p>
