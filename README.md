@@ -5,18 +5,19 @@ Sou desenvolvedor Front-End em formação e estudante de Análise e Desenvolvime
 Atualmente, aprofundo meus conhecimentos em React e no desenvolvimento de aplicações web modernas, com foco na construção de interfaces funcionais, intuitivas e bem estruturadas.
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/est%C3%A9fanno-pimenta-14097638b/" target="_blank">
+    <a href="https://www.linkedin.com/in/est%C3%A9fanno-pimenta-14097638b/">
         <img 
             alt="LinkedIn" 
-            title="LinkedIn" 
-            src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+            title="Abrir LinkedIn 🔗" 
+            src="https://img.shields.io/badge/%F0%9F%94%97%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
-    <a href="https://estefpimenta.github.io/project__portfolio/" target="_blank">
+    
+    <a href="https://estefpimenta.github.io/project__portfolio/">
         <img 
             alt="Portfolio" 
-            title="Portfolio" 
-            src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=google-chrome&logoColor=white"
+            title="Abrir Portfolio 🔗" 
+            src="https://img.shields.io/badge/%F0%9F%94%97%20Portfolio-222222?style=for-the-badge"
         />
     </a>
 </p>
