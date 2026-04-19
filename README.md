@@ -5,32 +5,18 @@ Sou desenvolvedor Front-End em formação e estudante de Análise e Desenvolvime
 Atualmente, aprofundo meus conhecimentos em React e no desenvolvimento de aplicações web modernas, com foco na construção de interfaces funcionais, intuitivas e bem estruturadas.
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/est%C3%A9fanno-pimenta-14097638b/">
+    <a href="https://www.linkedin.com/in/est%C3%A9fanno-pimenta-14097638b/" target="_blank">
         <img 
-            alt="linkedin" 
+            alt="LinkedIn" 
             title="LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+            src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
-    <a href="https://estefpimenta.github.io/project__portfolio/">
+    <a href="https://estefpimenta.github.io/project__portfolio/" target="_blank">
         <img 
-            alt="portfolio" 
+            alt="Portfolio" 
             title="Portfolio" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Larissakich?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://img.shields.io/badge/Portfolio-FFB400?style=for-the-badge&logo=vercel&logoColor=white"
         />
     </a>
 </p>
